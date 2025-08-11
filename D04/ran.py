@@ -7,7 +7,7 @@ import random
 random_integer=random.randint(1,10)
 # print(random_integer)
 random_float=random.random()
-# print(random_float)
+print(random_float)
 
 HT_game_level=random.randint(0,1)
 # print(HT_game_level)

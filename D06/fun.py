@@ -9,10 +9,9 @@ my_function() #function call
 
 def print_even():
     print(4)
-
+    
 for i in range(101):
         print_even()
-
 
 
     

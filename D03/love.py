@@ -31,8 +31,8 @@ print("love_count:", love_count)
 # calculate the love score
 love_score = str(treue_cout) + str(love_count)
 # love_count=int(treue_cout) + int(love_count) # do not use this line because it will convert the score to an integer
-print("Your love score is: " + love_score)
-print("Your love score is: " + str(love_count))
+print("Your love score is: " + love_score +"%")
+print("Your love score is: " + str(love_count)+"%")
 # check the love score
 if int(love_score) < 10 or int(love_score) > 90:
     print("You go together like coke and mentos.")
@@ -41,4 +41,16 @@ elif 40 <= int(love_score) <= 50:
 else:
     print("Your score is " + love_score + ".")
     print("You are not bad together.")
-# end of the code
+# # end of the code
+# number =int(input("enter the number: "))
+# if number % 2 == 0 and number>0:
+#       print(f"the number {number} is even and positive")
+# elif number % 2 == 0 and number<0:
+#       print(f"the number {number} is even and negative")
+# elif number % 2 != 0 and number>0:
+#       print(f"the number {number} is odd and positive")
+# elif number % 2 == 0 and number<0:
+#      print(f"the number {number} is even and negative")
+# else:
+#      print("the number is neither positive nor negative")
+

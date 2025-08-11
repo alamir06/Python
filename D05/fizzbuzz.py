@@ -8,4 +8,4 @@ for i in range(1, fizz_end_number + 1):
         print("Buzz", end=" ")
     else:
         print(i, end=" ")
-# This code implements the FizzBuzz problem, where it prints "Fizz" for multiples of 3,
+# This code implements the FizzBuzz problem, where it prints "Fizz" for multiples of 3

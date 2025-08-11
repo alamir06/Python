@@ -10,7 +10,6 @@
 # and the error is show in the input
 # it shows the stack error and after that solve the next one...
 
-
 # but code ingnitor tells the error in a line of code when we write the code
 
 #  print("indentation is not correct") 
