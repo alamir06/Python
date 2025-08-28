@@ -3,6 +3,7 @@ import random
 from handman_data import logo,word_list
 
 print(logo)
+
 choice_word = random.choice(word_list)
 print(f"The chosen word is {choice_word}")
 
